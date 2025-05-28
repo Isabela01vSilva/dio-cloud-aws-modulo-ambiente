@@ -1,18 +1,18 @@
-# ☁️ Módulo: Trabalhando com Ambiente Cloud na Amazon Web Services (AWS)
+# ☁️ Módulo: Trabalhando com Ambiente Cloud no Azure
 
-Repositório com exercícios e anotações do módulo **“Trabalhando com Ambiente Cloud na Amazon Web Services (AWS)”** do curso da **DIO - Java Native - Bradesco**.
+Repositório com exercícios e anotações do módulo **“Trabalhando com Ambiente Cloud no Azure”** do curso da **DIO - Java Native - Bradesco**.
 
 ## 📚 Conteúdo abordado
 - Fundamentos da computação em nuvem
-- Principais serviços da AWS (EC2, S3, IAM, etc.)
-- Configuração do AWS CLI
-- Criação de instâncias e deploy na nuvem
-- Boas práticas com o Free Tier da AWS
+- Principais serviços da Azure (Máquinas Virtuais, Azure Storage, etc.)
+- Criando recursos via portal e linha de comando (Azure CLI)
+- Gestão de permissões com Azure Active Directory
+- Boas práticas no uso da nuvem
 
 ## 🔧 Tecnologias e ferramentas
-- Amazon Web Services (AWS)
-- AWS CLI
-- Bash / Terminal
+- Microsoft Azure
+- Azure CLI
+- Bash / PowerShell
 
 ## ✍️ Autora
 **Isabela Silva**
