@@ -2,6 +2,9 @@
 
 Repositório com exercícios e anotações do módulo **“Trabalhando com Ambiente Cloud no Azure”** do curso da **DIO - Java Native - Bradesco**.
 
+## 📌 Exercícios 
+1. Criação de uma Máquina Virtual na Azure
+
 ## 📚 Conteúdo abordado
 - Fundamentos da computação em nuvem
 - Principais serviços da Azure (Máquinas Virtuais, Azure Storage, etc.)
