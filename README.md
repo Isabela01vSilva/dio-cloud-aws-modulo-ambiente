@@ -4,6 +4,7 @@ Repositório com exercícios **“Trabalhando com Ambiente Cloud no Azure”** d
 
 ## 📌 Exercícios 
 1. Criação de uma Máquina Virtual na Azure
+2. Criação de instânica 
 
 ## 📚 Conteúdo abordado neste módulo 
 - Fundamentos da computação em nuvem
